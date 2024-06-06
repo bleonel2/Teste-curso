@@ -3,3 +3,4 @@
 ### Será que vai?
 
 *git push
+*git pull
